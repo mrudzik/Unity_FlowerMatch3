@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BackTile
+  - SpawnTile
+  - BlockTile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3044126727
+    locked: 0
+  - name: Tiles
+    uniqueID: 3759382789
+    locked: 0
+  - name: Selection
+    uniqueID: 3125303417
+    locked: 0
+  - name: Flowers
+    uniqueID: 27539463
+    locked: 0
+  - name: SpawnParticles
+    uniqueID: 1070382109
+    locked: 0
